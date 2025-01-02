@@ -1,0 +1,63 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Ignore Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Ignore distribution and package management files
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore IDE/editor configuration files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+*.DS_Store
+*.coverage
+coverage.xml
+*.cover
+*.sql
+*.sqlite
+*.sqlite3
+debug.log
+
+# Ignore static and media files
+/static/
+/media/
+
+# Ignore specific project files (if any)
+migrations/
+__pycache__/
+*.py[cod]
