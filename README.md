@@ -1,8 +1,11 @@
-# FastAPI Application
+# Chat Bot Application
 
 ## Overview
 
-This is a FastAPI application designed to [brief description of what your application does].
+This is a chatbot application enables users to search for UAE
+real estate properties based on specific attributes, such as the number of bedrooms,
+bathrooms, location, and price. The chatbot will utilize the UAE Real Estate 2024 dataset to
+retrieve relevant data and generate informative responses using OpenAI or Azure OpenAI..
 
 ## Features
 
