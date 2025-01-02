@@ -1,4 +1,4 @@
-# Chat Bot Application
+# Chatbot Application
 
 ## Overview
 
